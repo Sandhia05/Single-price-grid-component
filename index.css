@@ -1,0 +1,131 @@
+*{
+    padding: 0px;
+    box-sizing: border-box;  
+    margin: 0px;
+}
+body{
+  background-color: rgb(230, 239, 246);
+  font-family: 'Karla', sans-serif;
+}
+.main{
+  background-color: white;
+  height: 400px;
+  width: 600px;
+  margin: 110px auto;
+  border-radius: 6px;
+  opacity: 0.9;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.one{
+  background-color: rgb(43, 156, 154);
+  height: 220px;
+  width: 300px;
+  position: absolute;
+  top: 293px;
+  padding: 18px;
+  border-right: 2px solid rgb(43, 156, 154);
+  border-radius: 2px;
+  border-bottom-left-radius: 4px;
+  opacity: 0.9;
+}
+.two{
+  height: 220px;
+  padding-right: 80px;
+  padding-left: 30px;
+  width: 300px;
+  background-color: rgb(74, 189, 190);
+  border-left: 2px solid rgb(74, 189, 190);
+  position: relative;
+  top: 35px;
+  left: 300px;
+  border-radius: 2px;
+  border-bottom-right-radius: 4px;
+  opacity: 0.9;
+
+}
+.join{
+    color: rgb(38, 156, 154);
+    opacity: 0.8;
+}
+.day{
+    color: rgb(203, 223, 95);
+    opacity: 0.8;
+    font-size: 17px;
+    letter-spacing: 1px;
+    opacity: 0.9;
+    padding-bottom: 13px;
+}
+.para{
+    color: #8ea1b8;
+    font-size: 12.5px;
+    opacity: 0.8;
+    line-height: 20px;
+}
+.two, .peer, .one .dol, .full, .mon, h2, .sign, .per{
+    color: white;
+}
+.sign{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: 800;
+    border: 2px solid rgb(191,223,50);
+    border-radius: 4px;
+    background-color: rgb(191, 223, 50);
+    color: white;
+    height: auto;
+    width: 200px;
+    text-align: center;
+    padding: 10px;
+    margin: 35px auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.two h4{
+ padding-top: 30px;
+ padding-bottom: 10px;
+
+}
+.peer{
+  font-size: 10px;
+  opacity: 0.6;
+  letter-spacing: 1px;
+  font-weight: 300;
+  font-family: 'Barlow', sans-serif;
+}
+.mon{
+  padding-left: 30px;
+  font-size: 16px;
+  font-weight: 800;
+  padding-bottom: 11px;
+  padding-top: 10px;
+  letter-spacing: 1px;
+  opacity: 0.8;
+}
+.cont{
+  padding-top: 30px;
+  margin-left: 40px;
+  letter-spacing: 1px;
+  font-size: 15px;
+  font-weight: 500;
+  opacity: 0.7;
+}
+.per{
+  margin-left: 30px;
+  letter-spacing: 1px;
+  font-size: 18px;
+  font-weight: 700;
+  opacity: 0.8;
+  
+}
+.pere{
+  margin-left: 8px;
+  letter-spacing: 1px;
+  font-size: 13.5px;
+  font-weight: 600;
+  opacity: 0.5;
+}
+.full{
+  margin-left: 30px;
+  font-size: 13px;
+  line-height: 15px;
+  opacity: 0.9;
+}
